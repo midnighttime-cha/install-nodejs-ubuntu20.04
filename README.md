@@ -25,6 +25,10 @@ sudo apt install npm
 ```bash
 npm install -g yarn
 ```
+ตรวจสอบ yarn version ได้โดย
+```bash
+yarn -v
+```
 
 ## วิธีที่ 2. ติดตั้งด้วย apt จาก PPA ของ node.js
 เริ่มจากคำสั่ง
