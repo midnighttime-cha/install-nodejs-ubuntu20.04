@@ -116,7 +116,8 @@ Downloading and installing node v12.16.3...
 . . .
 Now using node v12.16.3 (npm v6.14.4)
 ```
-จากนั้นทำการเปลี่ยนจาก version ปัจจุบันเป็น version ที่ต้องการด้วยคำสั่ง
+
+กรณีต้องการเปลี่ยนจาก version ปัจจุบันเป็น version ที่ต้องการด้วยคำสั่ง
 ```bash
 nvm use v13.6.0
 ```
