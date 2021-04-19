@@ -21,6 +21,10 @@ v10.19.0
 ```bash
 sudo apt install npm
 ```
+ปัจจุบันหลายๆคนชอบใช้ yarn ในการใช้งาน node package เราสามารถใช้ npm ติดตั้ง yarn ได้ด้วยคำสั่งต่อไปนี้
+```bash
+npm install -g yarn
+```
 
 ## วิธีที่ 2. ติดตั้งด้วย apt จาก PPA ของ node.js
 เริ่มจากคำสั่ง
