@@ -45,7 +45,7 @@ node -v
 ## วิธีที่ 3. ติดตั้งโดยใช้ `NVM` ในการเลือกติดตั้งแต่ละ version ได้
 ทำการดาวน์โหลดไฟล์ติดตั้ง
 ```bash
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
 ```
 เมื่อดาวน์โหลดไฟล์ดังกล่าวเรียบร้อยแล้วให้ทำการติดตั้งได้เลยด้วยคำสั่ง
 ```bash
